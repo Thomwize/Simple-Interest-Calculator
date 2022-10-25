@@ -1,0 +1,20 @@
+body {
+    background-color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h1{
+    color:grey;
+    font: verdana;
+}
+.maindiv{
+    background-color: white;
+    font: black;
+    width:300px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: 0 auto;
+}
+/*.res{
+    color: yellow;
+}/*
